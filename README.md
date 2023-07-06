@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ziakhan0537@gmail.com**
 
-- 📄 Know More About  **<a target='_blank' href="https://drive.google.com/drive/my-drive"> MY CV </a>**
+- 📄 Know More About  **<a target='_blank' href="https://drive.google.com/file/d/1j9jJG88_WYg28skGgNuz0-P_vaT1JBA7/view?usp=sharing"> MY CV </a>**
 
 - ⚡ Fun fact **I think I am funny 😂.**
 
