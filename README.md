@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/MD8J59b/Background-2.png)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/MD8J59b/Background-2.png)](https://github.com/Offensic)
 
 
 <h3 align="center">A passionate Mern stack developer from Pakistan. Who always think about who to Code much Efficient </h3>
