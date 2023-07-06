@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/MD8J59b/Background-2.png)](https://github.com/Offensic)
+[![MasterHead](https://i.ibb.co/5FcDc7w/Blue-Geometric-Technology-Linked-In-Banner.jpg)](https://github.com/Offensic)
 
 
 <h3 align="center">A passionate Mern stack developer from Pakistan. Who always think about who to Code much Efficient </h3>
