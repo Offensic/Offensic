@@ -1,10 +1,8 @@
-[![MasterHead](https://i.ibb.co/cgDmgVn/background-2-in-jpg.jpg)](https://github.com/Offensic)
+[![MasterHead](https://i.ibb.co/HLHDmvSj/Github-background-banner.png)](https://github.com/Offensic)
 
 
 <h3 align="start">A passionate Mern stack developer Software Enginner and Security enthusiast.  Who always think about who to Code much Efficient  to solve Problem</h3>
-<img   align='right'  style="border-radius: 10px; margin"  width="400" alt="mern Developer" src="https://i.pinimg.com/736x/6e/e5/d3/6ee5d39249bc0d07391263c4a6b855ea.jpg"  ></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=offensic&label=Profile%20views&color=0e75b6&style=flat" alt="offensic" /> </p>
 
 
 🔭 What Doing Right now
