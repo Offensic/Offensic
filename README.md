@@ -6,15 +6,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=offensic&label=Profile%20views&color=0e75b6&style=flat" alt="offensic" /> </p>
 
-- 🔭 I’m currently working on **<a target='_blank' href="https://www.zara.com/">Zara.com</a> Web Cloning**
+- 🔭 What Doing Right now Creating an Admin panle**
+- Learning new stuff**
 
-- 🌱 I’m currently learning **Awards Wining web dev and how to create a gency level Work to see a** <a target='_blank' href="https://www.awwwards.com/">Click Here</a> **For what I am taking about**
+Open for the Collaboration
 
-- 👯 For Collaboration ? **Buzzy Working on Own 😑 **
+- 👨‍💻 Porject List that doned in the past
 
-- 👨‍💻 To see my First Project In Mern Stack **( <a target='_blank' href="https://binyousaf.netlify.app/">Binyousaf.pk </a>)**
+  Frontend Prtoject
+  
+- https://clone-ochi.netlify.app/
+- https://construct-pk.netlify.app/
+- https://decodedesing2.netlify.app/
 
-- 📝 What about my Blogs? (Plaing For making a Blog on Infosec)
+  Full Stack Proeject
+- https://clone-maison-deuza.vercel.app/
+- https://binyousaf-pk.vercel.app/product-category/Washwear
+
+-  📝 About my Blogs? (Plaing For making a Blog on Infosec)
 
 - 💬 Ask me about ** MERN Stack Full Stack., Infosec field,**
 
@@ -22,7 +31,7 @@
 
 - 📄 Know More About  **<a target='_blank' href="https://drive.google.com/file/d/1j9jJG88_WYg28skGgNuz0-P_vaT1JBA7/view?usp=sharing"> MY CV </a>**
 
-- ⚡ Fun fact **I think I am funny 😂.**
+- ⚡ Fun fact **I think I am serious 😂.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
