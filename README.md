@@ -28,7 +28,7 @@ Full Stack Proeject
 
 Contact with me using email **ziakhan0537@gmail.com**
 
-⚡ Fun fact **I think I am serious 😂.**
+⚡ Fun fact **I think I am so serious 😂.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
