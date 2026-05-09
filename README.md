@@ -2,6 +2,12 @@
     
 <code>
 
+
+```yaml
+name: Zia
+role: Developer
+```
+
 <span style="color: #00FF00;">name:</span> <span style="color: #ecc48d;">"Zia ur Rehman"</span>
 <span style="color: #00FF00;">located_in:</span> <span style="color: #ecc48d;">"Pakistan -  Lahore"</span>
 <span style="color: #00FF00;">current_job:</span> <span style="color: #ecc48d;">"Full Stack Developer"</span>
