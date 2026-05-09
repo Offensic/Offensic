@@ -1,6 +1,5 @@
 # 👨‍💻 A Little Bit About Me and My Interests
-    <pre>
-
+    
 <code>
 
 <span style="color: #00FF00;">name:</span> <span style="color: #ecc48d;">"Zia ur Rehman"</span>
