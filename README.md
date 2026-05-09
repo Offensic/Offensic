@@ -1,4 +1,3 @@
-[![MasterHead](https://i.ibb.co/HLHDmvSj/Github-background-banner.png)](https://github.com/Offensic)
 
 
 <h3 align="start">A passionate Mern stack developer Software Enginner and Security enthusiast.  Who always think about who to Code much Efficient  to solve Problem</h3>
