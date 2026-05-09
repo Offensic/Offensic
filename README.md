@@ -2,9 +2,7 @@
 
 ```yaml
 name: "Zia ur Rehman"
-
 located_in: "Pakistan - Lahore"
-
 current_job: "Full Stack Developer"
 
 education:
@@ -16,20 +14,11 @@ company:
   website: "https://web-constellation.vercel.app/"
 
 fields_of_interests:
-  - "Web Development"
-  - "Web Security"
-  - "Cyber Security"
-
+  - "Web Development - Web Security"
+  
 currently_learning:
   - "Web Security"
   - "VAPT"
-
-technical_background:
-  - "MERN Stack Development"
-  - "Frontend Development"
-  - "Backend Development"
-  - "REST APIs"
-  - "MongoDB"
 
 hobbies:
   - "Planting"
@@ -39,9 +28,6 @@ goals_2026:
   - "Build More Secure Applications"
   - "Learn Advanced Web Security"
   - "Create More Open Source Projects"
-
-portfolio:
-  - "https://web-constellation.vercel.app/"
 
 languages:
   - "JavaScript"
@@ -68,5 +54,4 @@ operating_systems:
   - "Windows"
   - "Linux"
 
-fun_fact: "I love combining Web Development with Cyber Security 🚀"
 ```
