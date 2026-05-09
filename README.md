@@ -1,8 +1,8 @@
 
-<body style="background-color: black;">
+    <div style="background-color: black;">
 
-    <p style="color: white;">### 👨‍💻 A Little Bit About Me</p> 
-    <pre>
+        <p style="color: white;">### 👨‍💻 A Little Bit About Me</p>
+        <pre>
 
 <code>
 
@@ -36,5 +36,4 @@
 </code>
 </pre>
 
-
-</body>
+    </div>
