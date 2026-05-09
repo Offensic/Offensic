@@ -1,8 +1,5 @@
-
-    <div style="background-color: black;">
-
-        <p style="color: white;">### 👨‍💻 A Little Bit About Me</p>
-        <pre>
+# 👨‍💻 A Little Bit About Me and My Interests
+    <pre>
 
 <code>
 
@@ -36,4 +33,3 @@
 </code>
 </pre>
 
-    </div>
