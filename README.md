@@ -1,42 +1,35 @@
+### 👨‍💻 A Little Bit About Me and My Interests
 
+<pre>
+<code>
+<span style="color: #7fdbca;">name:</span> <span style="color: #ecc48d;">"Piyush Malhotra"</span>
+<span style="color: #7fdbca;">located_in:</span> <span style="color: #ecc48d;">"Montreal, Quebec"</span>
+<span style="color: #7fdbca;">current_job:</span> <span style="color: #ecc48d;">"Full Stack Developer"</span>
+<span style="color: #7fdbca;">education:</span> [
+    <span style="color: #ecc48d;">"Self-Taught Developer and Designer"</span>,
+    <span style="color: #ecc48d;">"Master's in Electrical and Computer Engineering"</span>,
+    <span style="color: #ecc48d;">"Bachelor's in Electronics and Communication"</span>
+]
+<span style="color: #7fdbca;">company:</span> <span style="color: #ecc48d;">"Soulber"</span>
 
-<h3 align="start">A passionate Mern stack developer Software Enginner and Security enthusiast.  Who always think about who to Code much Efficient  to solve Problem</h3>
+<span style="color: #7fdbca;">fields_of_interests:</span> [
+    <span style="color: #ecc48d;">"Web Development"</span>,
+    <span style="color: #ecc48d;">"Data Science"</span>,
+    <span style="color: #ecc48d;">"Machine Learning"</span>,
+    <span style="color: #ecc48d;">"UI/UX"</span>,
+    <span style="color: #ecc48d;">"Game Development"</span>,
+    <span style="color: #ecc48d;">"DevOps"</span>
+]
 
+<span style="color: #7fdbca;">technical_background:</span> [
+    <span style="color: #ecc48d;">"DevOps Solutions Architect"</span>,
+    <span style="color: #ecc48d;">"Intern - Data Science & Machine Learning in Python"</span>,
+    <span style="color: #ecc48d;">"Intern - Internet Of Things"</span>,
+    <span style="color: #ecc48d;">"Intern - VLSI and FPGA Implementation"</span>
+]
 
-
-🔭 What Doing Right now
--Creating an Admin panle**
-- Learning new stuff**
-
-Open for the Collaboration
-
-👨‍💻 Porject List that doned in the past
-
-Frontend Prtoject  
-- https://clone-ochi.netlify.app/
-- https://construct-pk.netlify.app/
-- https://decodedesing2.netlify.app/
-
-Full Stack Proeject
-- https://clone-maison-deuza.vercel.app/
-- https://binyousaf-pk.vercel.app/product-category/Washwear
-
-📝 About my Blogs? (Plaing For making a Blog on Infosec)
-
-💬 Ask me about ** MERN Stack Full Stack., Infosec field,**
-
-Contact with me using email **ziakhan0537@gmail.com**
-
-⚡ Fun fact **I think I am so serious 😂.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a  target='_blank' href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdin.com" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=offensic&show_icons=true&locale=en" alt="offensic" /></p>
-
+<span style="color: #7fdbca;">currently_learning:</span> <span style="color: #ecc48d;">["Docker, Kubernetes and React Native"]</span>
+<span style="color: #7fdbca;">2022 Goals:</span> <span style="color: #ecc48d;">["Create 20+ Projects and learn at least 5 new Technologies."]</span>
+<span style="color: #7fdbca;">hobbies:</span> <span style="color: #ecc48d;">["Gaming", "Cinema", "Skateboarding", "Art"]</span>
+</code>
+</pre>
