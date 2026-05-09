@@ -2,7 +2,7 @@
 
 <pre>
 <code>
-<span style="color: #48A111;">name:</span> <span style="color: #ecc48d;">"Piyush Malhotra"</span>
+<span style="color: #00FF00;">name:</span> <span style="color: #ecc48d;">"Piyush Malhotra"</span>
 <span style="color: #61cf5a;">located_in:</span> <span style="color: #ecc48d;">"Montreal, Quebec"</span>
 <span style="color: #61cf5a;">current_job:</span> <span style="color: #ecc48d;">"Full Stack Developer"</span>
 <span style="color: #61cf5a;">education:</span> [
