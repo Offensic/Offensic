@@ -26,14 +26,19 @@ hobbies:
 
 goals_2026:
   - "Build More Secure Applications"
-  - "Learn Advanced Web Security"
-  - "Create More Open Source Projects"
+  - "Learn Basic Advanced Web Security Master Owsap top 10 solve Portswigger Labs"
+  - "Practice on Hack the box"
+  - "Practice on Pico CTF 🚩"
+  - "Create + participate in More Open Source Projects"
+  - "Complete CCNA" 
+  - "Complete Complete EJPT" 
+  - "Complete Complete CEH" 
 
 languages:
   - "JavaScript"
   - "C"
   - "HTML"
-  - "CSS"
+  - "CSS" 
 
 frameworks:
   - "React.js"
