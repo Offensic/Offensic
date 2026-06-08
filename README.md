@@ -9,7 +9,7 @@ education:
   - "Self-Taught Developer"
   - "Bachelor's Degree in Computer Science"
 
-company:
+Future company:
   name: "Web Constellation"
   website: "https://web-constellation.vercel.app/"
 
@@ -19,6 +19,7 @@ fields_of_interests:
 currently_learning:
   - "Web Security"
   - "VAPT"
+  - "Networking 101"
 
 hobbies:
   - "Planting"
@@ -39,6 +40,12 @@ languages:
   - "C"
   - "HTML"
   - "CSS" 
+
+
+library:
+- "Tailwind Css"
+- "GSAP"
+- "Material UI"
 
 frameworks:
   - "React.js"
